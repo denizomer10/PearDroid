@@ -1,0 +1,11 @@
+build/
+.DS_Store
+*.spv
+
+# Local verification artefacts (screenshots, logs) are not committed.
+artifacts/
+
+# Swift Package Manager / Xcode
+.build/
+DerivedData/
+*.xcuserstate
